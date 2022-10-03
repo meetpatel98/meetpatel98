@@ -4,7 +4,7 @@
 
 •	🌱 I’m currently learning Data Structures, Algorithms, System Design and Advance Topics in Software Development Concepts.
 
-•	💬 Ask me about Software Development using Java and Web Development in React JS and Node JS.
+•	💬 Ask me about Software and Web Development.
 
 •	👨 Pronouns: He/Him
 
