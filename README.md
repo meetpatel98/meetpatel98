@@ -16,13 +16,14 @@
 •	👨 Pronouns: He/Him
 
 •	⚡ Fun fact: I love exploring new places.
-<br></br>
-## ❤️ Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:mp.meetpatel98@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/meetpatel98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/meet-patel-81b51a1a6/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/meetpatel__98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/meetpatel_98)
-<br></br>
+
+<hr></hr>
+
 ## 🏆 Github Profile Trophies
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetpatel98" alt="Meet's Profile Trophies" width="80%"/></a></p>
-<br></br>
+
+<hr></hr>
+
 ## 🎇 Github Stats
 <div align="center">
 <table>
@@ -34,10 +35,14 @@
 </tbody>
 </table>
 </div>
-<br></br>
+
+<hr></hr>
+
 ## 📈 Github Activity Graph
 [![Meet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=meetpatel98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br></br>
+
+<hr></hr>
+
 ## 🎊 Github Metrices and Languages Used
 <div align="center">
 <table>
@@ -49,3 +54,9 @@
 </tbody>
 </table>
 </div>
+
+<hr></hr>
+
+<h2> ❤️ Connect With Me </h2>
+
+&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:mp.meetpatel98@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/meetpatel98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/meet-patel-81b51a1a6/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/meetpatel__98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/meetpatel_98)
