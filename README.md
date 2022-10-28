@@ -41,8 +41,6 @@
 ## 📈 Github Activity Graph
 [![Meet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=meetpatel98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=meetpatel98&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <hr></hr>
 
 ## 🎊 Github Metrices and Languages Used
