@@ -29,7 +29,7 @@
 <table>
 <tbody>
 <tr>
-  <td style="text-align:center"><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetpatel98&theme=buefy" alt="Meet's Streak Stats"/></a></td>
+  <td style="text-align:center"><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=meetpatel98&date_format=j%20M%5B%20Y%5D" alt="Meet's Streak Stats"/></a></td>
   <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=meetpatel98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Meet's Github Stats" /></a></td>
 </tr>
 </tbody>
@@ -40,6 +40,8 @@
 
 ## 📈 Github Activity Graph
 [![Meet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=meetpatel98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=meetpatel98&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <hr></hr>
 
