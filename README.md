@@ -38,6 +38,10 @@
 
 <hr></hr>
 
+
+
+<hr></hr>
+
 ## 📈 Github Activity Graph
 [![Meet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=meetpatel98&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
