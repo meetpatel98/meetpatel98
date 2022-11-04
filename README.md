@@ -7,6 +7,8 @@
   <img alt="MIT LICENCE" src="https://img.shields.io/github/license/meetpatel98/meetpatel98?style=flat&color=blue&label=Licence"/>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 •	🔭 I’m currently pursuing Master's degree in Applied Computer Science at Dalhousie University.
 
 •	🌱 I’m currently learning Data Structures, Algorithms, System Design and Advance Topics in Software Development Concepts.
