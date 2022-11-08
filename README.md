@@ -59,6 +59,6 @@
 
 <hr></hr>
 
-<h2> ❤️ Connect With Me </h2>
+<h2> ❤️ Connect With Me on Social Media </h2>
 
 &nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:mp.meetpatel98@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/meetpatel98)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/meet-patel-81b51a1a6/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/meetpatel__98/)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/meetpatel_98)
